@@ -1,4 +1,5 @@
-# Parameter-Estimation
+# Parameter Estimation Pipline using PEtab and pyPESTO
+
 Parameter estimation pipline using pyPESTO and PEtab 
 
 For running the notebook properly:
